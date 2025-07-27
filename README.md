@@ -19,6 +19,12 @@ Execute o arquivo `main.py`
 *Remova os arquivos já adicionados dessa pasta para não ter conflitos.\
 *Caso precise importar novamente um arquivo com o mesmo nome, exclua o nome do arquivo em `base_de_conhecimento.txt`
 
+## Utilização
+- Opção 1 para adicionar documentos
+- Opção 2 para conversar com o Assistente
+- Opção 3 para encerrar o programa\
+*Na interação com o Assitente, digite "-exit" para finalizar a conversa
+
 ### Observações
 Projeto testado com o processador i7 12 Gen, 32 GB RAM, AD107GLM RTX 1000 Ada Generation
 
