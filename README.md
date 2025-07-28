@@ -3,7 +3,7 @@ Inteligência artificial local que pode se personalizada com suas informações
 
 ## Execução do projeto
 - Baixe a CLI do [Ollama](https://ollama.com/download)
-- Baixe o modelo utilizado no projeto [llama 3.1](https://ollama.com/library/llama3.1) com `ollama run llama3.1`
+- Baixe o modelo utilizado no projeto [llama 3.2](https://ollama.com/library/llama3.2) com `ollama run llama3.2`
 
 Na IDE de sua preferência, execute os comandos:\
 `python3 -m venv venv` *Pode ser necessário trocar o ambiente de execução na IDE\
