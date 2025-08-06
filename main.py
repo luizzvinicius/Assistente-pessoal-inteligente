@@ -19,8 +19,8 @@ QUERY_PROMPT = PromptTemplate(
     input_variables=["question"],
     template="""You are an assistant for developers. Your task is to generate a simple 
     answer of the relevant documents you have in your a vector database. 
-    By generating multiple perspectives on the user question, your
-    goal is to help the user overcome some of the limitations of the distance-based
+    By generating multiple perspectives on the developer question, your
+    goal is to help the developer overcome some of the limitations of the distance-based
     similarity search. Provide these alternative questions separated by newlines.
     Original question: {question}""",
 )
