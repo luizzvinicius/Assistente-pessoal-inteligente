@@ -10,14 +10,14 @@ Na IDE de sua preferência, execute os comandos:\
 `source venv/bin/activate` Comando específico para Linux\
 `pip install -r requirements.txt`
 
-Crie o arquivo `base_de_conhecimento.txt`
+Crie o arquivo `base_de_documentos.txt`
 
 Execute o arquivo `main.py`
 
 ## Como personalizar o modelo?
 - Crie a pasta `to-add` e adicione arquivos `pdf` (apenas). Execute o programa com a opção de adicionar documentos.\
 *Remova os arquivos já adicionados dessa pasta para não ter conflitos.\
-*Caso precise importar novamente um arquivo com o mesmo nome, exclua o nome do arquivo em `base_de_conhecimento.txt`
+*Caso precise importar novamente um arquivo com o mesmo nome, exclua o nome do arquivo em `base_de_documentos.txt`
 
 ## Utilização
 - Opção 1 para adicionar documentos
